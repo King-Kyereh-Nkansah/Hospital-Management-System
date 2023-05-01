@@ -233,12 +233,65 @@
 
           </li>
 
+<!-- 
+          <li class="course-category-item">
+
+            <div class="wrapper">
+              <img src="./assets/images/course-category-icon-4.png" alt="category icon" class="category-icon default">
+
+              <img src="./assets/images/course-category-icon-4-w.png" alt="category icon white"
+                class="category-icon hover">
+            </div>
+
+            <div class="course-category-content">
+              <h3 class="category-title">
+                <a href="#">Learn Lifestyle</a>
+              </h3>
+
+              <p class="category-subtitle">New Skills, New You</p>
+            </div>
+
+          </li> -->
 
 
+          <!-- <li class="course-category-item">
 
-  
+            <div class="wrapper">
+              <img src="./assets/images/course-category-icon-5.png" alt="category icon" class="category-icon default">
+
+              <img src="./assets/images/course-category-icon-5-w.png" alt="category icon white"
+                class="category-icon hover">
+            </div>
+
+            <div class="course-category-content">
+              <h3 class="category-title">
+                <a href="#">Learn Marketing</a>
+              </h3>
+
+              <p class="category-subtitle">Improve your business</p>
+            </div>
+
+          </li> -->
 
 
+          <!-- <li class="course-category-item">
+
+            <div class="wrapper">
+              <img src="./assets/images/course-category-icon-6.png" alt="category icon" class="category-icon default">
+
+              <img src="./assets/images/course-category-icon-6-w.png" alt="category icon white"
+                class="category-icon hover">
+            </div>
+
+            <div class="course-category-content">
+              <h3 class="category-title">
+                <a href="#">Learn Finance</a>
+              </h3>
+
+              <p class="category-subtitle">Fun & Challenging</p>
+            </div>
+
+          </li> -->
 
         </ul>
 
@@ -342,6 +395,16 @@
 
               <div class="wrapper border-bottom">
 
+                <!-- <div class="author">
+                  <img src="./assets/images/course-instructor-img.jpg" alt="course instructor image" class="author-img">
+
+                  <a href="#" class="author-name">Lillian Wals</a>
+                </div> -->
+
+                <!-- <div class="rating">
+                  <ion-icon name="star"></ion-icon>
+                  <p>5.0 (2k)</p>
+                </div> -->
 
               </div>
 
@@ -371,11 +434,30 @@
 
               <div class="wrapper border-bottom">
 
-         
+                <!-- <div class="author">
+                  <img src="./assets/images/course-instructor-img.jpg" alt="course instructor image" class="author-img">
+
+                  <a href="#" class="author-name">Lillian Wals</a>
+                </div> -->
+
+                <!-- <div class="rating">
+                  <ion-icon name="star"></ion-icon>
+                  <p>4.7 (5k)</p>
+                </div> -->
 
               </div>
 
-        
+              <!-- <div class="wrapper">
+                <div class="course-price">$80.00</div>
+
+                <div class="enrolled">
+                  <div class="icon-user">
+                    <img src="./assets/images/student-icon.png" alt="user icon">
+                  </div>
+
+                  <p>545k</p>
+                </div>
+              </div> -->
 
             </div>
 
@@ -399,16 +481,62 @@
                 <a href="#">Ensuring good health is our top-most priority.</a>
               </h3>
 
-   
+              <!-- <div class="wrapper border-bottom">
 
+                <div class="author">
+                  <img src="./assets/images/course-instructor-img.jpg" alt="course instructor image" class="author-img">
 
+                  <a href="#" class="author-name">Lillian Wals</a>
+                </div> -->
+
+                <!-- <div class="rating">
+                  <ion-icon name="star"></ion-icon>
+                  <p>4.1 (3k)</p>
+                </div>
+
+              </div> -->
+
+              <!-- <div class="wrapper">
+                <div class="course-price">$29.90</div>
+
+                <div class="enrolled">
+                  <div class="icon-user">
+                    <img src="./assets/images/student-icon.png" alt="user icon">
+                  </div>
+
+                  <p>317k</p>
+                </div>
+              </div> -->
 
             </div>
 
           </div>
 
 
+          <!-- <div class="course-card">
 
+            <div class="course-banner">
+              <img src="./assets/images/course-4.jpg" alt="course banner">
+
+              <div class="course-tag-box">
+                <a href="#" class="badge-tag orange">Business</a>
+                <a href="#" class="badge-tag blue">Marketing</a>
+              </div>
+            </div>
+
+            <div class="course-content">
+
+              <h3 class="card-title">
+                <a href="#">Improving accessibility of Your markdown.</a>
+              </h3>
+
+              <div class="wrapper border-bottom">
+
+                <div class="author">
+                  <img src="./assets/images/course-instructor-img.jpg" alt="course instructor image" class="author-img">
+
+                  <a href="#" class="author-name">Lillian Wals</a>
+                </div>
 
                 <div class="rating">
                   <ion-icon name="star"></ion-icon>
@@ -431,11 +559,28 @@
 
             </div>
 
-          </div> 
+          </div> -->
 
 
 
- 
+          <!-- <div class="course-card">
+
+            <div class="course-banner">
+              <img src="./assets/images/course-5.jpg" alt="course banner">
+
+              <div class="course-tag-box">
+                <a href="#" class="badge-tag orange">Business</a>
+                <a href="#" class="badge-tag blue">Marketing</a>
+              </div>
+            </div>
+
+            <div class="course-content">
+
+              <h3 class="card-title">
+                <a href="#">Master query in a short period of time.</a>
+              </h3>
+
+              <div class="wrapper border-bottom">
 
                 <div class="author">
                   <img src="./assets/images/course-instructor-img.jpg" alt="course instructor image" class="author-img">
@@ -467,7 +612,22 @@
           </div> -->
 
 
-   
+          <!-- <div class="course-card">
+
+            <div class="course-banner">
+              <img src="./assets/images/course-6.jpg" alt="course banner">
+
+              <div class="course-tag-box">
+                <a href="#" class="badge-tag orange">Business</a>
+                <a href="#" class="badge-tag blue">Marketing</a>
+              </div>
+            </div>
+
+            <div class="course-content">
+
+              <h3 class="card-title">
+                <a href="#">Business Intelligence analyst Course 2022.</a>
+              </h3>
 
               <div class="wrapper border-bottom">
 
@@ -861,7 +1021,25 @@
 
 
 
+      <!--
+        - #BLOG
+      -->
+<!-- 
+      <section class="blog" id="blog">
 
+        <p class="section-subtitle">Our Blog</p>
+
+        <h2 class="section-title">Latest Blog & News</h2>
+
+        <div class="blog-grid">
+
+          <div class="blog-card">
+
+            <div class="blog-banner-box">
+              <img src="./assets/images/blog-1.jpg" alt="blog banner">
+            </div>
+
+            <div class="blog-content">
 
               <h3 class="blog-title">
                 <a href="#">Proin feugiat tortor non neque eleifend.</a>
@@ -953,7 +1131,7 @@
 
         </div>
 
-      </section> 
+      </section> -->
 
 
 
